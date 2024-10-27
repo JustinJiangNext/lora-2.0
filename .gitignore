@@ -5,3 +5,6 @@ formatted
 MODELS
 kaggle.json
 tmbbin
+weights.pth
+
+.ipynb_checkpoints/*
