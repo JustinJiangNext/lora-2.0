@@ -39,16 +39,16 @@ def generate_images(prompt, modifiers, num_images, batch_size, output_folder):
 
 def fulltaskworker(promptNumber):
     prompts = [
-        "a photograph of an airplane", 
-        "a photograph of an automobile", 
-        "a photograph of a bird", 
-        "a photograph of a cat",
-        "a photograph of a deer", 
-        "a photograph of a dog", 
-        "a photograph of a frog", 
-        "a photograph of a horse", 
-        "a photograph of a ship", 
-        "a photograph of a truck"
+        "R3E4AL, a photograph of an airplane", 
+        "R3E4AL, a photograph of an automobile", 
+        "R3E4AL, a photograph of a bird", 
+        "R3E4AL, a photograph of a cat",
+        "R3E4AL, a photograph of a deer", 
+        "R3E4AL, a photograph of a dog", 
+        "R3E4AL, a photograph of a frog", 
+        "R3E4AL, a photograph of a horse", 
+        "R3E4AL, a photograph of a ship", 
+        "R3E4AL, a photograph of a truck"
     ]
     modifiers = [
         ["aircraft", "airplane", "fighter", "flying", "jet", "plane"],
